@@ -1,0 +1,16 @@
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\bin\Debug\net5.0\DivinaElNumero.exe
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\bin\Debug\net5.0\DivinaElNumero.deps.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\bin\Debug\net5.0\DivinaElNumero.runtimeconfig.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\bin\Debug\net5.0\DivinaElNumero.runtimeconfig.dev.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\bin\Debug\net5.0\DivinaElNumero.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\bin\Debug\net5.0\DivinaElNumero.pdb
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.AssemblyInfoInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.AssemblyInfo.cs
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\refint\DivinaElNumero.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.pdb
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\DivinaElNumero.genruntimeconfig.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\DivinaElNumero\DivinaElNumero\obj\Debug\net5.0\ref\DivinaElNumero.dll
